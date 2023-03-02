@@ -1,0 +1,36 @@
+body{
+background-color: rgb(24, 23, 23);
+}
+
+.main{
+display: grid;
+max-width: 800px;
+margin: 0 auto;
+font-style: italic;
+}
+
+.principal{
+    margin-top: 300px;
+    text-align: center;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    border-radius: 12px ;
+    
+}
+
+
+#btn-add-tarefas{
+    background-color: rgb(158, 150, 150);
+    color: rgb(24, 23, 23);
+    list-style: none;
+}
+
+.principal li{
+    list-style: none;
+}
+
+.btn-remover{
+    background-color: rgb(158, 150, 150);
+    color:  rgb(24, 23, 23);;
+}
